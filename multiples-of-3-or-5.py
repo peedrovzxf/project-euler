@@ -11,3 +11,7 @@ for i in range(1000):
     sum += i
 
 print(sum)
+
+"""
+Problem link: https://projecteuler.net/problem=1
+"""
